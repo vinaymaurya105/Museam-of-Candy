@@ -16,14 +16,16 @@ body {
   margin-top: 100px;
 }
 #mainnavbar .navbar-brand {
-  color: rgb(216, 77, 77);
+  color: #70e000;
 }
 #mainnavbar .nav-link {
   color: white;
+  padding: 15px;
+  margin-left: 50px;
 }
 
 #mainnavbar .nav-link:hover {
-  color: rgba(216, 77, 77, 0.76);
+  color: #ffd300;
 }
 #headinggroups h1 {
   font-weight: 400;
@@ -34,7 +36,7 @@ body {
   color: rgb(168, 12, 12);
 }
 #mainnavbar.scrolled {
-  background-color: rgb(222, 205, 225);
+  background-color: #ff4d6d;
 }
 @media (max-width: 1200px) {
   #headinggroups h1 {
