@@ -7,7 +7,7 @@ body {
   font-size: 2.5rem;
 }
 .para p {
-  color: #48ff00;
+  color: #fee140;
   font-weight: 300;
   font-size: 19px;
 }
@@ -30,6 +30,7 @@ body {
 #headinggroups h1 {
   font-weight: 400;
   font-size: 2.8rem;
+  color: #48ff00;
 }
 
 #headinggroups span {
