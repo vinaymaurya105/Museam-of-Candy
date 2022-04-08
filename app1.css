@@ -1,11 +1,13 @@
 body {
   background-color: #0466c8ee;
 }
+
 .para h2 {
   color: red;
   font-weight: 400;
   font-size: 2.5rem;
 }
+
 .para p {
   color: #fee140;
   font-weight: 300;
@@ -15,9 +17,11 @@ body {
 #content {
   margin-top: 100px;
 }
+
 #mainnavbar .navbar-brand {
   color: #70e000;
 }
+
 #mainnavbar .nav-link {
   color: white;
   padding: 15px;
@@ -27,6 +31,7 @@ body {
 #mainnavbar .nav-link:hover {
   color: #ffd300;
 }
+
 #headinggroups h1 {
   font-weight: 400;
   font-size: 2.8rem;
@@ -36,9 +41,11 @@ body {
 #headinggroups span {
   color: rgb(168, 12, 12);
 }
+
 #mainnavbar.scrolled {
   background-color: #ff4d6d;
 }
+
 @media (max-width: 1200px) {
   #headinggroups h1 {
     font-size: 2rem;
